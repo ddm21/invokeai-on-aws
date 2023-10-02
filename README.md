@@ -1,5 +1,3 @@
-# invokeai-on-aws
-
 # AWS Instance Setup for Stable Disunion Project
 
 This guide provides instructions on setting up an AWS instance for hosting Invokeai Project. We'll use the **g4dn.xlarge** instance type.

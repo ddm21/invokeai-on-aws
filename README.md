@@ -2,7 +2,7 @@
 
 # AWS Instance Setup for Stable Disunion Project
 
-This guide provides instructions on setting up an AWS instance for hosting your Stable Disunion Project. We'll use the **g4dn.xlarge** instance type, which offers GPU performance similar to an Nvidia 3060 with 8GB VRAM.
+This guide provides instructions on setting up an AWS instance for hosting Invokeai Project. We'll use the **g4dn.xlarge** instance type.
 
 ## Instance Type
 - **Instance Type:** G4dn.xlarge
